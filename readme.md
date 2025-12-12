@@ -53,6 +53,10 @@ Unlike retail strategies, this AI analyzes the Physics of the market. It uses 4 
 
 ---
 
+Interact with the app here: https://www.gold-price-pred.streamlit.app
+
+---
+
 ## ⚠️ Disclaimer
 
 This software is an experimental prototype. Algorithmic trading involves significant risk. The "60% Precision" metric is based on historical backtesting and does not guarantee future results.
